@@ -7,6 +7,10 @@
  
  Create `firstName` and `lastName` constants and assign them string literals representing a user's first name and last name, respectively. Create a `fullName` constant that uses string concatenation to combine `firstName` and `lastName`. Print the value of `fullName`.
  */
+let firstName = "Tiya"
+let lastName = "Kukar"
+let fullName = firstName + " " + lastName
+print(fullName)
 
 
 /*:
@@ -18,6 +22,9 @@
  */
 let previousBest = 14392
 let newBest = 15125
+
+let congratulations = "Congratulations, \(fullName)! You beat your previous daily high score of \(previousBest) steps by walking \(newBest) steps yesterday!"
+print(congratulations)
 
 /*:
 [Previous](@previous)  |  page 3 of 5  |  [Next: Exercise - String Equality and Comparison](@next)
