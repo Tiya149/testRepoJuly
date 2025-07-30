@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Apple_Pie
 //
-//  Created by Simran on 21/07/25.
+//  Created by Tiya on 21/07/25.
 //
 
 import UIKit
