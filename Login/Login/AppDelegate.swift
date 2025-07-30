@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Login
 //
-//  Created by Simran on 18/07/25.
+//  Created by Tiya on 18/07/25.
 //
 
 import UIKit
